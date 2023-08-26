@@ -1,3 +1,8 @@
+"""
+Student: Juan Plasencia
+*Showing Creativity:
+-With this application you can calculate the area of different geometric figures by entering the values of the variables used to measure the areas
+"""
 def compute_area_square(side):
     """That accepts a single value as a parameter, and then computes the area for the square and returns it."""
     area = side**2
